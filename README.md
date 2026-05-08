@@ -4,6 +4,7 @@
 <div>
   <a href="https://x.com/XieYifan1201"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
   <a href="https://www.youtube.com/@XieYifan1201"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+  <a href="https://www.instagram.com/XieYifan1201"><img src="https://img.shields.io/badge/Instagram-IG-c32136" /></a>&emsp;
   <a href="https://www.20051201.xyz/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=XieYifan1201&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
